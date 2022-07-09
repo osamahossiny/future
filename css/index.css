@@ -93,6 +93,7 @@ section.hero .down-arrow {
   bottom: 2em;
   left: 40%;
   width: 1.5em;
+  margin-bottom: 5em;
   animation: moveArrow 1s alternate-reverse infinite;
 }
 section.hero .down-arrow path {
